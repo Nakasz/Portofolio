@@ -13,8 +13,8 @@ export default function TagPage({ slug, articles }) {
     return (
         <>
             <Meta
-                title={`${slug} / Irsyad Notes`}
-                url={`https://irsyadnotes.com/articles`}
+                title={`${slug} / 0xnaka Dev`}
+                url={`https://0xnaka.dev/articles`}
             />
             <div className='bg-white'>
                 <Container>

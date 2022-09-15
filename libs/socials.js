@@ -9,27 +9,23 @@ import {
 export const socials = [
     {
         name: 'Twitter',
-        url: 'https://twitter.com/irsyadadl',
+        url: 'https://twitter.com/ins0mnia15',
         icon: IconBrandTwitter,
     },
-    {
-        name: 'Instagram',
-        url: 'https://instagram.com/irsyadadl',
-        icon: IconBrandInstagram,
-    },
+    
     {
         name: 'Github',
-        url: 'https://github.com/irsyadadl',
+        url: 'https://github.com/Nakasz',
         icon: IconBrandGithub,
     },
     {
         name: 'Facebook',
-        url: 'https://facebook.com/irsyadadl',
+        url: 'https://facebook.com/nakarapstar',
         icon: IconBrandFacebook,
     },
     {
-        name: 'irsyad@parsinta.com',
-        url: 'mailto:irsyad@parsinta.com',
+        name: '0xnaka@duck.com',
+        url: 'mailto:0xnaka@duck.com',
         icon: IconMail,
     },
 ];

@@ -2,7 +2,7 @@ import Head from 'next/head';
 import React from 'react';
 
 export default function Meta({
-    title = 'Irsyad A. Panjaitan',
+    title = 'Naka',
     description = 'There are so many questions where I currently work, from 2016 to 2 February 2022 I have worked in several PTs engaged in Software Agency and Software House.',
     og = 'https://irsyadnotes.com/images/og-image.jpg',
     url = 'https://irsyadnotes.com',

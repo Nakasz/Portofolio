@@ -17,7 +17,7 @@ export default function Footer() {
                         <NavLink href='/uses' value='Uses' />
                     </ul>
                     <div className={clsx(styles.textMuted, 'text-right')}>
-                        © 2022 Irsyad Notes. All rights reserved.
+                        © 2022 0xnaka Dev. All rights reserved.
                     </div>
                 </div>
             </Container>

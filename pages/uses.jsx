@@ -8,8 +8,8 @@ export default function Uses() {
     return (
         <>
             <Meta
-                title='Uses / Irsyad Notes'
-                url={`https://irsyadnotes.com/uses`}
+                title='Uses'
+                url={`https://0xnaka.dev/uses`}
             />
             <div className={styles.whiteLayoutWithPaddingY}>
                 <Container>

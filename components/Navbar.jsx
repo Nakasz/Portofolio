@@ -12,8 +12,8 @@ export default function Navbar() {
                         className='h-8 w-8 rounded-full'
                         width='32'
                         height='32'
-                        src='/images/me/grunch.jpg'
-                        alt='Irsyad Notes'
+                        src='/images/me/rungkat.png'
+                        alt='Naka'
                     />
                 </a>
             </Link>

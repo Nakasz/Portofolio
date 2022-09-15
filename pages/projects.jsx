@@ -54,8 +54,8 @@ export default function Projects() {
     return (
         <>
             <Meta
-                title='Projects / Irsyad Notes'
-                url={`https://irsyadnotes.com/projects`}
+                title='My Projects'
+                url={`https://0xnaka.dev/projects`}
             />
             <div className={styles.whiteLayoutWithPaddingY}>
                 <Container>

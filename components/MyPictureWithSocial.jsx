@@ -9,8 +9,8 @@ export default function MyPictureWithSocial() {
                 className='rounded-lg'
                 width='512'
                 height='512'
-                src='/images/me/cool.jpg'
-                alt='Irsyad A. Panjaitan'
+                src='/images/me/rungkat.png'
+                alt='Naka'
             />
 
             <div className='mt-8 space-y-4'>
