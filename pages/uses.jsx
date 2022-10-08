@@ -14,16 +14,11 @@ export default function Uses() {
             <div className={styles.whiteLayoutWithPaddingY}>
                 <Container>
                     <PageTitle className='mb-6'>
-                        Software I use, gadgets I love, and other things I
-                        recommend.
+                    Programming is my hobby, I spend time on NFT
                     </PageTitle>
                     <section className='prose dark:prose-invert lg:prose-lg'>
                         <p>
-                            I get asked a lot about the things I use to build
-                            software, stay productive, or buy to fool myself
-                            into thinking I’m being productive when I’m really
-                            just procrastinating. Here’s a big list of all of my
-                            favorite stuff.
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate
                         </p>
                         <h2>Workstation</h2>
                         <p>
@@ -32,39 +27,13 @@ export default function Uses() {
                             also explain everything that happens there.
                         </p>
                         <div className='lg:ml-6'>
-                            <h4>MacBook Pro M1 (2020)</h4>
+                            <h4>ASUS TUF GAMING (2020)</h4>
                             <p>
-                                For now, the <strong>Apple M1 Chip</strong>{' '}
-                                (8-Core CPU, 8-Core GPU) with{' '}
-                                <strong>256GB</strong> storage and{' '}
-                                <strong>8GB</strong> RAM is enough for my daily
-                                work.
+                            When I was at school I didn't have a laptop because I was constrained by costs, so when I had more money I bought this laptop because I wanted to experience the experience of using a gaming laptop.
                             </p>
+                            <h4>I'm using POCO F4 and Iphone 14 pro</h4>
                             <p>
-                                Incidentally because I subscribe to{' '}
-                                <strong>iCloud</strong>, so I don't need to buy
-                                up to 1 TB. And also it's not a cheap price for
-                                now I think.
-                            </p>
-                            <h4>PodMic Dynamic Broadcast Microphone</h4>
-                            <p>
-                                In the past year, this is the mic I used when
-                                recording video tutorials at{' '}
-                                <strong>Parsinta</strong>, plus the{' '}
-                                <strong>Professional Studio Arm</strong> which
-                                is also from Rode. And to connect my voice so
-                                that it can be heard properly, I use{' '}
-                                <strong>Single-Channel Audio Interface</strong>.
-                            </p>
-                            <h4>iPhone 11</h4>
-                            <p>
-                                You know that the iPhone 14 just came out, but
-                                I'm still comfortable with this. And more
-                                importantly, all my needs were met and that was
-                                more than enough. <br /> And of course I will
-                                not be stuck with the words "This is the best
-                                iPhone we ever made" ⸺ <strong>J</strong>/
-                                <strong>K</strong>.
+                            I like both Android and IOS
                             </p>
                         </div>
                         <h2>Development tools</h2>
@@ -82,27 +51,6 @@ export default function Uses() {
                                 studio code and I think, I can be comfortable
                                 here even now.
                             </p>
-                            <h4>iTerm</h4>
-                            <p>
-                                I’m honestly not even sure what features I get
-                                with this that aren’t just part of the macOS
-                                Terminal but it’s what I use.
-                            </p>
-                            <h4>Warp</h4>
-                            <p>
-                                Apart from using <strong>iTerm</strong>. I
-                                sometimes use Warp, yes it all depends on the
-                                mood too.
-                            </p>
-                            <h4>TablePlus</h4>
-                            <p>
-                                This is the most robust tool I've ever used to
-                                interface with mysql. But unfortunately, it's
-                                not free. So I have to buy it. When I bought it,
-                                it was still around <strong>$79</strong> and
-                                that's what I chose was basic. Because also the
-                                device I'm currently using is only one.
-                            </p>
                             <h4>Laravel Forge</h4>
                             <p>
                                 I'm too lazy to mess around with the server, so
@@ -111,11 +59,6 @@ export default function Uses() {
                                 was $12/mo, previously I used "Growth" which was
                                 $19/mo, but I think it's useless for now, so I
                                 downgrade.
-                            </p>
-                            <h4>Amazon S3</h4>
-                            <p>
-                                I won't talk much about this issue, because I
-                                only use it as storage for my website.
                             </p>
                             <h4>Figma</h4>
                             <p>
@@ -138,55 +81,15 @@ export default function Uses() {
                             and are very serious about what I am interested in.
                         </p>
                         <div className='lg:ml-6'>
-                            <h4>Raycast</h4>
-                            <p>
-                                Long time with <strong>Alfred</strong>, but
-                                since I know how amazing{' '}
-                                <strong>Raycast</strong> is, I feel very stupid
-                                if I don't use this tool.
-                            </p>
                             <h4>Notes</h4>
                             <p>
                                 I know there are better tools than this, but you
                                 know, I'm comfortable with this. so it's hard
                                 for me to move.
                             </p>
-                            <h4>Typora</h4>
-                            <p>
-                                Apart from making video tutorials, I also write
-                                books. So I need an application that supports
-                                the name Markdown. So typeora is my choice for
-                                now. It's not free, when I bought it it was
-                                still around <strong>$15</strong>.
-                            </p>
-                            <h4>Xnapper</h4>
-                            <p>
-                                I know, every computer must have a built-in
-                                screenshot, but I think xnapper makes my work
-                                more productive by not opening Figma every time
-                                I want to post everywhere.
-                            </p>
-                            <h4>1Password</h4>
-                            <p>
-                                I know there are a lot of password managers, but
-                                I only stick with 1 password and it's been 3
-                                years. Because now there are lots of websites or
-                                applications that offer what is called
-                                two-factor authentication. So I think using
-                                1password is easier to not download other
-                                applications.
-                            </p>
-                            <h4>DaVinci Resolved</h4>
-                            <p>
-                                I use this tool to edit all the videos in
-                                Parsinta. Previously I did use screensflow, obs,
-                                and until I realized that <strong>D/R</strong>{' '}
-                                was more powerful.
-                            </p>
                         </div>
                         <p>
-                            For now, that's all I wear and I have. Maybe I'll
-                            update this if I use something else.
+                        Thank you for taking the time to read
                         </p>
                     </section>
                 </Container>

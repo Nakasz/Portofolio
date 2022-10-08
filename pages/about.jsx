@@ -8,7 +8,7 @@ export default function About() {
     return (
         <>
             <Meta
-                title='About Me'
+                title='About Naka'
                 url='https://0xnaka.dev/about'
             />
             <div className={styles.whiteLayoutWithPaddingY}>

@@ -7,47 +7,22 @@ import Image from 'next/image';
 import React from 'react';
 const projects = [
     {
-        name: 'Parsinta Exclusive',
-        icon: '/images/projects/parsinta-exclusive.svg',
-        description: 'Vscode theme for free.',
-        url: 'https://parsinta.com/s/psnth',
-    },
-    {
-        name: 'React starter',
-        icon: '/images/projects/react.svg',
-        description: "It's a react starter project with tailwind css.",
-        url: 'https://github.com/teamparsinta/react-starter',
-    },
-    {
-        name: 'Laravel Ebook',
+        name: 'Project A',
         icon: '/images/projects/books.svg',
-        description: 'Learn laravel from scracth.',
-        url: 'https://parsinta.com/s/elrvl',
+        description: 'Ebook',
+        url: 'https://0xnaka.dev',
     },
     {
-        name: 'irsyadadl/libr',
-        icon: '/images/projects/github.svg',
-        description: 'Laravel with Bootstrap & React',
-        url: 'https://github.com/irsyadadl/libr',
+        name: 'Project B',
+        icon: '/images/projects/react.svg',
+        description: "React",
+        url: 'https://0xnaka.dev/projects',
     },
     {
-        name: 'irsyadadl/fence',
-        icon: '/images/projects/github.svg',
-        description:
-            'Fence is a package for authentication views using Laravel fortify.',
-        url: 'https://github.com/irsyadadl/fence',
-    },
-    {
-        name: 'Irsyad Notes',
+        name: 'Project C',
         icon: '/images/projects/nextjs.svg',
-        description: 'The site you are currently visiting.',
-        url: 'https://github.com/irsyadadl/irsyadnotes.com',
-    },
-    {
-        name: 'Github Parsinta',
-        icon: '/images/projects/parsinta.svg',
-        description: 'Repo for free.',
-        url: 'https://github.com/teamparsinta',
+        description: 'Next JS',
+        url: 'https://0xnaka.dev/projects',
     },
 ];
 export default function Projects() {
@@ -62,8 +37,7 @@ export default function Projects() {
                     <div className='mb-4'>
                         <PageTitle>My Projects</PageTitle>
                         <p className={clsx(styles.textMuted, 'mt-2 text-xl')}>
-                            Apart from making video tutorials, I also create
-                            projects on github.
+                            I also createprojects on github.
                         </p>
                     </div>
                     <ol className='mt-6 max-w-xl space-y-4 rounded-2xl bg-gray-100 p-6 dark:bg-gray-800/50'>

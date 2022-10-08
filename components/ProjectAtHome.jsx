@@ -4,22 +4,22 @@ import Link from 'next/link';
 import React from 'react';
 const projects = [
     {
-        name: 'Parsinta Exclusive',
-        icon: '/images/projects/parsinta-exclusive.svg',
-        description: 'Vscode theme for free.',
-        url: 'https://parsinta.com/s/psnth',
-    },
-    {
-        name: 'React starter',
-        icon: '/images/projects/react.svg',
-        description: "It's a react starter project with tailwind css.",
-        url: 'https://github.com/teamparsinta/react-starter',
-    },
-    {
-        name: 'Laravel Ebook',
+        name: 'Project A',
         icon: '/images/projects/books.svg',
-        description: 'Learn laravel from scracth.',
-        url: 'https://parsinta.com/s/elrvl',
+        description: 'Ebook',
+        url: 'https://0xnaka.dev',
+    },
+    {
+        name: 'Project B',
+        icon: '/images/projects/react.svg',
+        description: "React",
+        url: 'https://0xnaka.dev/projects',
+    },
+    {
+        name: 'Project C',
+        icon: '/images/projects/nextjs.svg',
+        description: 'Next JS',
+        url: 'https://0xnaka.dev/projects',
     },
 ];
 export default function ProjectAtHome() {

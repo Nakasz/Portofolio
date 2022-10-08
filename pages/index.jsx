@@ -31,17 +31,11 @@ export default function index({ articles }) {
                         <div className='w-full lg:w-2/3'>
                             <div className='mb-6 rounded-2xl bg-gray-100 p-4 dark:bg-gray-800/50 lg:-ml-10 lg:p-10'>
                                 <PageTitle className='mb-3 lg:mb-6'>
-                                    Software I use, gadgets I love, and other
-                                    things I recommend.
+                                Programming is my hobby, I spend time on NFT
                                 </PageTitle>
                                 <section className='prose dark:prose-invert lg:prose-lg'>
                                     <p>
-                                        I get asked a lot about the things I use
-                                        to build software, stay productive, or
-                                        buy to fool myself into thinking I’m
-                                        being productive when I’m really just
-                                        procrastinating. Here’s a big list of
-                                        all of my favorite stuff.
+                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate
                                     </p>
                                 </section>
                                 <div className='mt-6'>
