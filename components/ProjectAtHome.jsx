@@ -19,7 +19,7 @@ const projects = [
         name: 'Project C',
         icon: '/images/projects/nextjs.svg',
         description: 'Next JS',
-        url: 'https://0xnaka.dev/projects',
+        url: 'https://0xnaka.dev/',
     },
 ];
 export default function ProjectAtHome() {
