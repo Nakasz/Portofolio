@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Meta({
     title = 'Naka',
-    description = 'I'm Naka, a Blockchain and Cryptocurrency Developer from Indonesian',
+    description = 'I m Naka, a Blockchain and Cryptocurrency Developer from Indonesian',
     og = 'https://0xnaka.dev',
     url = 'https://0xnaka.dev/',
 }) {
