@@ -89,7 +89,7 @@ export default function Uses() {
                             </p>
                         </div>
                         <p>
-                        Thank you for taking the time to read
+                         Thank you for taking the time to read
                         </p>
                     </section>
                 </Container>
