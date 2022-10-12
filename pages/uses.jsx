@@ -22,9 +22,7 @@ export default function Uses() {
                         </p>
                         <h2>Workstation</h2>
                         <p>
-                            Here I will explain about the tools that I use at
-                            work, because I am a teacher at Parsinta, I will
-                            also explain everything that happens there.
+                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate 
                         </p>
                         <div className='lg:ml-6'>
                             <h4>ASUS TUF GAMING (2020)</h4>
